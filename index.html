@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="finishing.css">
+    <title>ALURA-DEV</title>
+    <style>
+        header div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0;
+        }
+
+        #input-busca {
+            padding: 12px 20px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 0;
+            outline: none;
+            width: 350px;
+            transition: border-color 0.3s ease;
+        }
+
+        #input-busca:focus {
+            border-color: #000000;
+        }
+
+        #botao-busca {
+            padding: 12px 20px;
+            font-size: 16px;
+            border: 2px solid #000000;
+            background-color: #000305;
+            color: rgb(129, 34, 34);
+            cursor: pointer;
+            border-radius: 0;
+            margin-left: -2px; /* Ajusta a junção com o input */
+            transition: background-color 0.3s ease;
+        }
+
+
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px; /* Espaçamento entre os cards */
+            justify-content: center;
+        }
+
+        .card {
+            width: 350px;
+            box-sizing: border-box;
+            border: 1px solid #ddd;
+            border-radius: 0;
+            box-shadow: 0 4px 8px rgba(153, 11, 11, 0.1);
+            overflow: hidden; /* Garante que a imagem não saia do card */
+            background-color: #000000;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-image {
+            width: 100%;
+            height: 200px; /* Altura fixa para a imagem */
+            object-fit: contain; /* Ajusta a imagem para caber sem cortar */
+            background-color: #f0f0f0; /* Cor de fundo para a área da imagem */
+            padding: 1rem;
+        }
+
+        /* Estilos do Modal */
+        .modal {
+            display: none; /* Escondido por padrão */
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(3, 0, 0, 0.6);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: #000000;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #850808;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 5px;
+            position: relative;
+            color: #bbb9b9; /* Garante que o texto dentro do modal seja legível */
+        }
+
+        .modal-close {
+            color: #ececec;
+            position: absolute;
+            top: 10px;
+            right: 25px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .modal-close:hover,
+        .modal-close:focus {
+            color: rgb(180, 170, 170);
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        #modal-link {
+            color: red;
+        }
+    </style>
+
+</head>
+
+<body>
+    <header>
+        <h1>INTELIGÊNCIA FINANCEIRA E DESENVOLVIMENTO PESSOAL
+        </h1>
+        <div>
+            <input type="text" id="input-busca" placeholder="Digite o nome de um Livro">
+            <button id="botao-busca" onclick="iniciarBusca()">BUSCAR</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <!-- Os cards dos livros serão inseridos aqui via JavaScript -->
+        </section>
+    </main>
+
+    <!-- Estrutura do Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <h2 id="modal-titulo"></h2>
+            <p id="modal-descricao-completa"></p>
+            <a id="modal-link" href="#" target="_blank">Saiba Mais</a>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-location">Brasil</div>
+        <ul class="footer-links">
+            <li>
+                <a href="https://www.linkedin.com/in/rafael-gomes-taiar-a9793b352/">Linkedin</a>
+            </li>
+            <li>
+                <a href="https://github.com/RafaelGomesTaiar">GitHub</a>
+            </li>
+            <li><a href="https://www.instagram.com/rafael_taiar/">Instagram</a></li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

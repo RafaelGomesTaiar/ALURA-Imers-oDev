@@ -1,0 +1,410 @@
+[
+{
+    "nome":"Pai rico,pai pobre",
+    "descricao_curta": "Aprenda sobre educação financeira e a mentalidade necessária para construir riqueza, comparando as lições de um 'pai rico' e um 'pai pobre'.",
+    "descricao_completa":"Robert Kiyosaki compara as lições financeiras de seu 'pai rico' (o pai de seu melhor amigo) e seu 'pai pobre' (seu pai biológico), mostrando como diferentes mentalidades sobre dinheiro, trabalho e investimentos moldam o futuro financeiro. O livro defende a importância da educação financeira, da construção de ativos e do empreendedorismo para alcançar a liberdade financeira.",
+    "ano": 1997,
+    "link": "https://www.amazon.com.br/Pai-rico-pai-pobre-anos/dp/8550801488",
+    "imagem": "https://m.media-amazon.com/images/I/71V4lNR2gKL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+    "nome":"O homem mais rico da Babilonia",
+    "descricao_curta": "Descubra princípios financeiros atemporais através de parábolas da antiga Babilônia, focando em poupança, controle de gastos e investimentos.",
+    "descricao_completa":"George S. Clason apresenta princípios atemporais de finanças pessoais através de parábolas ambientadas na antiga Babilônia. As lições incluem a importância de poupar uma parte da renda, controlar gastos, investir sabiamente e buscar conhecimento para fazer o dinheiro trabalhar para você.",
+    "ano": 1926,
+    "link": "https://www.amazon.com.br/Homem-Mais-Rico-Babil%C3%B4nia/dp/8595081530",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/81ehX6Quw2L._AC_UL900_SR615,900_.jpg"
+},
+{
+    "nome":"Os segredos da mente milionária",
+    "descricao_curta": "Entenda como sua mentalidade sobre dinheiro molda seu sucesso financeiro e aprenda a adotar os hábitos de pessoas ricas.",
+    "descricao_completa":"T. Harv Eker explora a relação entre a mentalidade e a riqueza, argumentando que o sucesso financeiro é determinado pelo 'modelo de dinheiro' interno de cada pessoa. O livro ensina a identificar e substituir crenças limitantes sobre dinheiro por 'arquivos de riqueza' que promovem a abundância e a prosperidade.",
+    "ano": 2005,
+    "link": "https://www.amazon.com.br/segredos-mente-milion%C3%A1ria-Harv-Eker/dp/8575422391",
+    "imagem": "https://m.media-amazon.com/images/I/81WzW3xJb5L._AC_UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "A Psicologia Financeira",
+    "descricao_curta": "Descubra como o comportamento e a psicologia, mais do que o conhecimento técnico, são cruciais para o sucesso financeiro.",
+    "descricao_completa": "Morgan Housel explora como a psicologia humana influencia nossas decisões financeiras. O livro mostra que o sucesso financeiro não depende tanto do que você sabe, mas de como você se comporta, ensinando lições atemporais sobre riqueza, ganância e felicidade.",
+    "ano": 2020,
+    "link": "https://www.amazon.com.br/psicologia-financeira-atemporais-gan%C3%A2ncia-felicidade/dp/6555111100/ref=sr_1_1?adgrpid=80248251766&dib=eyJ2IjoiMSJ9.xvKNGzo6cPitTT_akG69yi0EbQeCEttepU5G1I9QTsTyKa1EpuH9VbO-1ohNeNDhJ5_bnCXJuWtzjtAl9TmYgxWfmaCd6xlmivWwPyxVOv6pJQjUmu2t82XVH6yUMv-nxjxwLQ2bhqKxod8IbAMc7e8-tEFelsOv1cfeCCNF-cfLlR3MT961RH5KQ4SYa3X1sXIL4-l5Twx6EvYczwpGPXJGV2GXlZwZJ3bvvFd_wwxjGRSUk6_EKuBCeHOkKrRmK2HiXt1EPXtguhHsh4PjxY4elTtA9Bq4OaioI9Qooww.QXWFJM3ajWs0alJKU22dm9A76LIrPFQ59OjYYcn0i-0&dib_tag=se&hvadid=595815690454&hvdev=c&hvlocphy=9196420&hvnetw=g&hvqmt=e&hvrand=3715425996398888301&hvtargid=kwd-1186730145119&hydadcr=5732_13215219&keywords=a+psicologia+financeira&mcid=5ff8e36b05f130faa738667699b3b461&qid=1763829984&sr=8-1",
+    "imagem": "data:image/jpeg;base64,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"
+},
+{
+    "nome": "O Investidor Inteligente",
+    "descricao_curta": "Aprenda a filosofia do 'investimento em valor' de Benjamin Graham para proteger seu capital e desenvolver estratégias de longo prazo.",
+    "descricao_completa": "Considerado a bíblia do investimento em valor, Benjamin Graham ensina sua filosofia de 'valor de investimento', que protege os investidores de erros e os ensina a desenvolver estratégias de longo prazo. É uma leitura essencial para quem deseja investir no mercado de ações com segurança.",
+    "ano": 1949,
+    "link": "https://www.amazon.com.br/investidor-inteligente-Lourdes-Sette/dp/8595080801/ref=sr_1_3?adgrpid=163347835376&dib=eyJ2IjoiMSJ9.CpFf0LVDE8lZ4w6J78boPDPEGqaaufznE0IpSc-LHxbiS8DFvHGhT34FuXqSVNZpDtJDg_HyFZrZc2v5F1RPF9OAQ7Iqy1z6rrT7O7X3Nywkwln8PjOQoI9y3EXNrr6qf0ZqMudixeSWDoxRfbWBEyJD3EtjhBt6NSWaeCgUKRAV4Q7Vo6BH7qhlHElqy-a7VAxiYqGUseFUTRVwOTehnXhY3lkFOPGMD1NvRZehUGg.LI54meN1U6Gzu4Ulqw6k3olcBNJibd4Sci9db9F6nU0&dib_tag=se&gad_source=1&hvadid=700704200129&hvdev=c&hvlocphy=9196420&hvnetw=g&hvqmt=e&hvrand=8057268746285373709&hvtargid=kwd-338782595516&hydadcr=5731_13215261&keywords=o+investidor+inteligente&mcid=dc953a362a4b37a48295b313535c6047&qid=1763830181&s=books&sr=1-3",
+    "imagem": "https://m.media-amazon.com/images/I/71EoT4l2lTL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Quem Pensa Enriquece",
+    "descricao_curta": "Descubra os 13 passos para o sucesso financeiro, baseados na pesquisa de Napoleon Hill com mais de 500 milionários.",
+    "descricao_completa": "Napoleon Hill pesquisou mais de quinhentos milionários para descobrir o segredo de suas fortunas. Neste livro, ele apresenta 13 passos para o sucesso, focados no poder do pensamento, na definição de objetivos e na persistência para transformar desejos em realidade financeira.",
+    "ano": 1937,
+    "link": "https://www.amazon.com.br/Quem-Pensa-Enriquece-Guia-Estudos/dp/6555341521/ref=sr_1_2?adgrpid=130377715910&dib=eyJ2IjoiMSJ9.2JVKE9p5AZc7qV4yUEf2caqsBgcsVeqbWrr0NPJKHrCqZSBh6956wp_f4uYScWOilzZcf6sjitJbyTfGXAKgagpuMJBMuwTVUws5OCQWpo8tyA7iDnyddqy9PLC2gLERGl0JgPtGV-nO_5WfbtmgPFl5HKhStAh6MJeMFug2jDt_2hK7jNoxpYmA7yOq81eQ6f-SCOstIv1wk0fOXxNoLMDsnErJyZFh5aJh5bKKf59OZNhdrXc0PUrEMEv9ihU5CYnUOjgLp77jBz6KmCZqCgHecoCNzWQ5ScI653cycfk.e5m4g8Uwd4uu5Nx7oCH3gsZPgFafRI0A3qU9xBigqvg&dib_tag=se&hvadid=595815710575&hvdev=c&hvlocphy=9196420&hvnetw=g&hvqmt=e&hvrand=13013015330075227499&hvtargid=kwd-331526228625&hydadcr=5735_13215258&keywords=quem+pensa+enriquece&mcid=53dbd181459f337cae914b409227cace&qid=1763830213&sr=8-2",
+    "imagem": "https://m.media-amazon.com/images/I/71ivq+NMtZL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Do Mil ao Milhão. Sem Cortar o Cafezinho",
+    "descricao_curta": "Aprenda os três pilares para a independência financeira (gastar bem, investir melhor, ganhar mais) com Thiago Nigro, O Primo Rico.",
+    "descricao_completa": "Thiago Nigro, criador da plataforma O Primo Rico, ensina os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais. O livro aborda desde a organização das finanças até a escolha de investimentos, com uma linguagem acessível para iniciantes.",
+    "ano": 2018,
+    "link": "https://www.amazon.com.br/Do-mil-milh%C3%A3o-cortar-cafezinho-ebook/dp/B07HQWPVRS",
+    "imagem": "https://m.media-amazon.com/images/I/81r5VTxaBiL.jpg"
+},
+{
+    "nome": "O Poder do Hábito",
+    "descricao_curta": "Entenda a ciência por trás da formação de hábitos e aprenda a usar o ciclo 'deixa, rotina, recompensa' para transformar sua vida.",
+    "descricao_completa": "Charles Duhigg explora a ciência por trás da formação e mudança de hábitos. O livro mostra como entender o ciclo do hábito (deixa, rotina, recompensa) pode nos ajudar a transformar nossas vidas pessoais e profissionais, incluindo a gestão financeira.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBcp1EMmJpfUbS0ib9-7P4mglKi4kzisCCQ&s"
+},
+{
+    "nome": "Rápido e Devagar: Duas Formas de Pensar",
+    "descricao_curta": "Conheça os dois sistemas de pensamento (rápido e devagar) e como os vieses cognitivos afetam suas decisões, especialmente as financeiras.",
+    "descricao_completa": "O psicólogo Daniel Kahneman detalha os dois sistemas que moldam nosso pensamento: o Sistema 1, rápido e intuitivo, e o Sistema 2, lento e lógico. O livro revela os vieses cognitivos que afetam nossas decisões, inclusive as financeiras.",
+    "ano": 2011,
+    "link": "https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=sr_1_1_sspa?adgrpid=132112161732&dib=eyJ2IjoiMSJ9.gUrUUGySQ2ie_6gpZEXpX1F3Jv47MqwLvzMvQz87yG2wUpmJEwV5MwGqfTKu6yktzeFrGzSQVLzsI528yhOBN6EM-V89lVj0lc5nxgw0knR1GRwgTtnIzUyQhj-VBjIwZ_QSlCg9Nkz7YuldxVeWRfWQ1IknGc8mS2nZQWbGyS_48gUwaCl5T6OlGdWSIr6h.UtFm7Si1Z_20EXL-Nf0IiDVFdTeFhkw99D7gjT3RuCs&dib_tag=se&hvadid=595905450448&hvdev=c&hvlocphy=9196420&hvnetw=g&hvqmt=e&hvrand=7648222025671343905&hvtargid=kwd-376306468692&hydadcr=20548_13350047&keywords=rapido+e+devagar&mcid=a849b85aa87c3eef8af865bc8e6c0775&qid=1763830355&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+    "imagem": "https://m.media-amazon.com/images/I/61pt9lG-PvL.jpg"
+},
+{
+    "nome": "Os 7 Hábitos das Pessoas Altamente Eficazes",
+    "descricao_curta": "Aprenda sete hábitos baseados em princípios para resolver problemas pessoais e profissionais e alcançar a eficácia.",
+    "descricao_completa": "Stephen Covey apresenta uma abordagem holística e baseada em princípios para resolver problemas pessoais e profissionais, com lições aplicáveis à disciplina financeira e ao estabelecimento de metas de longo prazo.",
+    "ano": 1989,
+    "link": "https://www.amazon.com.br/H%C3%A1bitos-das-Pessoas-Altamente-Eficazes/dp/8576840626/ref=sr_1_1?adgrpid=129579978369&dib=eyJ2IjoiMSJ9.TlB3h4y2zNVbdFUPT7hpi7gphoSH5if3XcHW_qeDjkcA4cfyAJvQFrfE-AetErzvUhiAneisreVC0JjP9eeBzNG0VNWxNgqJwABfCLRdLuEIHDTryTnipYgInZQRj0Z_2ghhU3L3YAE5VDnyqPIncceqJNWYKj5o5VYGWX_4gddpG87hpyVI9X747A31L7UAqDqdP7DmA0D3uo75ErHB-7sfI6E_txJWGYcwHDHHoyVUHVAzisxNcHXIoeYVB0hfHXwDjI-9y-8ys7_tvEqNWAJ9n-Jv6nYw7tSboQTs4JI.bwO6KXwDyfPUuDB5oOscYn1RybkqiZhZpb1GxZ37m4c&dib_tag=se&hvadid=593130731478&hvdev=c&hvlocphy=9196420&hvnetw=g&hvqmt=e&hvrand=12446027407895571689&hvtargid=kwd-430958073579&hydadcr=28363_14542420&keywords=os+7+habitos+de+pessoas+altamente+eficazes+pdf&mcid=f3a41c5829823e018970c5bff589da59&qid=1763830382&sr=8-1",
+    "imagem": "https://m.media-amazon.com/images/I/811jUvTg4FL.jpg"
+},
+{
+    "nome": "Mindset: A Nova Psicologia do Sucesso",
+    "descricao_curta": "Descubra a diferença entre um 'mindset fixo' e um 'mindset de crescimento' e como isso impacta seu sucesso em todas as áreas da vida.",
+    "descricao_completa": "Carol S. Dweck introduz o conceito de 'mindset fixo' versus 'mindset de crescimento'. O livro mostra como a nossa atitude em relação às nossas habilidades e desafios impacta todas as áreas da vida, incluindo o sucesso financeiro.",
+    "ano": 2006,
+    "link": "https://www.amazon.com.br/Mindset-Carol-S-Dweck/dp/8547000240",
+    "imagem": "https://m.media-amazon.com/images/I/81D1T67ZflL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "A Sutil Arte de Ligar o F*da-se",
+    "descricao_curta": "Uma abordagem contra-intuitiva para uma vida melhor: aprenda a escolher o que realmente importa e ignore o resto.",
+    "descricao_completa": "Mark Manson argumenta que a chave para uma vida melhor não é se preocupar com mais coisas, mas sim escolher se importar apenas com o que é verdadeiramente importante. Uma abordagem contra-intuitiva para viver uma vida mais feliz e com menos estresse.",
+    "ano": 2016,
+    "link": "https://www.amazon.com.br/Sutil-Arte-Ligar-Se/dp/855100249X",
+    "imagem": "https://m.media-amazon.com/images/I/6175IU0qFgL.jpg"
+},
+{
+    "nome": "O Milagre da Manhã",
+    "descricao_curta": "Transforme sua vida com uma rotina matinal de seis práticas para aumentar a produtividade, clareza e motivação.",
+    "descricao_completa": "Hal Elrod propõe uma rotina matinal de seis práticas (Salvadores de Vida) para transformar sua vida antes das 8 da manhã. O livro foca em aumentar a produtividade, a clareza e a motivação para alcançar seus objetivos.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/milagre-manh%C3%A3-Hal-Elrod/dp/8576849941",
+    "imagem": "https://m.media-amazon.com/images/I/81wLBsY30rL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Trabalhe 4 Horas por Semana",
+    "descricao_curta": "Desafie a noção tradicional de trabalho e aprenda a automatizar sua renda para viver mais e trabalhar menos.",
+    "descricao_completa": "Timothy Ferriss desafia a ideia tradicional de trabalho e aposentadoria, propondo um estilo de vida de 'novos ricos' que valoriza tempo e mobilidade. O livro oferece estratégias para automatizar a renda e viver mais, trabalhando menos.",
+    "ano": 2007,
+    "link": "https://www.amazon.com.br/Trabalhe-4-Horas-por-Semana/dp/8542211561",
+    "imagem": "https://m.media-amazon.com/images/I/818FxH52VaL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "A Startup Enxuta",
+    "descricao_curta": "Aprenda a metodologia 'construir-medir-aprender' para desenvolver negócios e produtos de forma mais rápida e com menos desperdício.",
+    "descricao_completa": "Eric Ries apresenta uma metodologia para desenvolver negócios e produtos de forma mais rápida e eficiente. Os princípios de construir-medir-aprender são essenciais para empreendedores que desejam inovar com menos desperdício.",
+    "ano": 2011,
+    "link": "https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624",
+    "imagem": "https://m.media-amazon.com/images/I/81NATRL+10L._AC_UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Como Fazer Amigos e Influenciar Pessoas",
+    "descricao_curta": "Um guia clássico para melhorar a comunicação, construir relacionamentos sólidos e aumentar sua influência pessoal e profissional.",
+    "descricao_completa": "Um clássico de Dale Carnegie sobre relações humanas. O livro oferece conselhos práticos sobre como se comunicar de forma eficaz, construir relacionamentos sólidos e se tornar uma pessoa mais influente, habilidades cruciais para o sucesso.",
+    "ano": 1936,
+    "link": "https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas/dp/8543108683",
+    "imagem": "https://m.media-amazon.com/images/I/71x-i7sKSvL.jpg"
+},
+{
+    "nome": "Essencialismo: A Disciplinada Busca por Menos",
+    "descricao_curta": "Aprenda a disciplinada busca por menos, focando sua energia apenas no que é essencial para alcançar mais resultados significativos.",
+    "descricao_completa": "Greg McKeown ensina a arte de focar no que é essencial e eliminar todo o resto. O livro é um guia para identificar o que é mais importante, a fim de aplicar sua energia de forma mais produtiva e significativa.",
+    "ano": 2014,
+    "link": "https://www.amazon.com.br/Essencialismo-Greg-Mckeown/dp/8543102146",
+    "imagem": "https://m.media-amazon.com/images/I/812xVVSyTwL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "O Lado Difícil das Situações Difíceis",
+    "descricao_curta": "Conselhos honestos de um dos maiores investidores do Vale do Silício sobre os desafios reais de construir e liderar uma startup.",
+    "descricao_completa": "Ben Horowitz, cofundador da Andreessen Horowitz, compartilha suas experiências na construção e gestão de startups. Um livro honesto sobre os desafios que os líderes enfrentam e como navegar pelas decisões mais difíceis.",
+    "ano": 2014,
+    "link": "https://www.amazon.com.br/lado-dif%C3%ADcil-das-situa%C3%A7%C3%B5es-dif%C3%ADceis/dp/857827976X",
+    "imagem": "https://m.media-amazon.com/images/I/51EC5wr0b-L._AC_UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Antifrágil: Coisas que se Beneficiam com o Caos",
+    "descricao_curta": "Descubra o conceito de 'antifrágil' e como construir sistemas que não apenas resistem, mas se beneficiam do caos e da incerteza.",
+    "descricao_completa": "Nassim Nicholas Taleb introduz o conceito de 'antifrágil', algo que não apenas resiste ao caos, mas se beneficia dele. O livro explora como podemos construir sistemas, carreiras e finanças que prosperam na incerteza.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/Antifr%C3%A1gil-Nova-edi%C3%A7%C3%A3o-Coisas-beneficiam/dp/8547001085",
+    "imagem": "https://m.media-amazon.com/images/I/71VU8IrbChL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "O Ego é Seu Inimigo",
+    "descricao_curta": "Aprenda com exemplos históricos como o ego pode ser um obstáculo para o sucesso e como cultivar a humildade para focar no que importa.",
+    "descricao_completa": "Ryan Holiday usa exemplos históricos para mostrar como o ego pode ser um obstáculo para o sucesso e a resiliência. O livro oferece estratégias para gerenciar nosso ego, cultivar a humildade e focar no trabalho que importa.",
+    "ano": 2016,
+    "link": "https://www.amazon.com.br/ego-seu-inimigo-dominar-advers%C3%A1rio/dp/8551002422",
+    "imagem": "https://m.media-amazon.com/images/I/61wr4eRbOUL.jpg"
+},
+{
+    "nome": "Me Poupe! 10 passos para nunca mais faltar dinheiro no seu bolso",
+    "descricao_curta": "Um guia prático e bem-humorado de Nathalia Arcuri para organizar suas finanças, sair das dívidas e começar a investir.",
+    "descricao_completa": "Nathalia Arcuri, criadora do canal Me Poupe!, apresenta um guia prático e bem-humorado para quem quer organizar a vida financeira, sair das dívidas e começar a investir, mesmo com pouco dinheiro.",
+    "ano": 2018,
+    "link": "https://www.amazon.com.br/Me-Poupe-passos-faltar-dinheiro/dp/8543105811",
+    "imagem": "https://m.media-amazon.com/images/I/61RdZcqDCWL.jpg"
+},
+{
+    "nome": "O jeito Warren Buffett de investir",
+    "descricao_curta": "Explore os princípios de investimento de Warren Buffett, focando em negócios de longo prazo, paciência e disciplina.",
+    "descricao_completa": "Robert G. Hagstrom detalha os princípios de investimento de Warren Buffett, um dos maiores investidores de todos os tempos. O livro explora a filosofia de focar em negócios de longo prazo e a importância da paciência e da disciplina.",
+    "ano": 1994,
+    "link": "https://www.amazon.com.br/jeito-Warren-Buffett-investir-investidor/dp/8557173067",
+    "imagem": "https://m.media-amazon.com/images/I/81gLXSghkLS.jpg"
+},
+{
+    "nome": "O mais importante para o investidor",
+    "descricao_curta": "Lições essenciais de Howard Marks sobre controle de riscos e o pensamento de 'segundo nível' para um entendimento mais profundo do mercado.",
+    "descricao_completa": "Howard Marks, cofundador da Oaktree Capital, compartilha suas principais lições sobre investimento, focando no controle de riscos e no pensamento de 'segundo nível'. Uma leitura essencial para investidores que buscam um entendimento mais profundo do mercado.",
+    "ano": 2011,
+    "link": "https://www.amazon.com.br/Mais-Importante-para-Investidor-Financeiro/dp/6556600202",
+    "imagem": "https://m.media-amazon.com/images/I/81xoB3OeMIL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "A bola de neve: Warren Buffett e o negócio da vida",
+    "descricao_curta": "A biografia autorizada de Warren Buffett, oferecendo uma visão detalhada de sua vida, carreira e filosofia de investimento.",
+    "descricao_completa": "A biografia autorizada de Warren Buffett, escrita por Alice Schroeder. O livro oferece uma visão detalhada da vida, da carreira e da filosofia de um dos homens mais ricos e respeitados do mundo.",
+    "ano": 2008,
+    "link": "https://www.amazon.com.br/Bola-Neve-Warren-Buffett-Neg%C3%B3cio/dp/8575424408",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyG6Wwj-u4OKOfId9rS87TZN6TcOpwZzfIg&s"
+},
+{
+    "nome": "Pense de novo: O poder de saber o que você não sabe",
+    "descricao_curta": "Descubra a importância de repensar suas opiniões e a habilidade crucial de desaprender e reaprender em um mundo em constante mudança.",
+    "descricao_completa": "Adam Grant explora a importância de repensar nossas próprias opiniões e de ter a mente aberta. O livro argumenta que a capacidade de desaprender e reaprender é uma habilidade crucial em um mundo em rápida mudança.",
+    "ano": 2021,
+    "link": "https://www.amazon.com.br/Pense-novo-poder-saber-voc%C3%AA/dp/655564186X",
+    "imagem": "https://m.media-amazon.com/images/I/71Y6v2aCXvL.jpg"
+},
+{
+    "nome": "Comece pelo porquê",
+    "descricao_curta": "Aprenda com o 'Círculo Dourado' de Simon Sinek por que líderes e organizações inspiradoras sempre começam com o 'Porquê'.",
+    "descricao_completa": "Simon Sinek apresenta a ideia do 'Círculo Dourado' (Porquê, Como, O Quê) e argumenta que líderes e organizações que inspiram começam comunicando o seu propósito. Um livro fundamental sobre liderança e inspiração.",
+    "ano": 2009,
+    "link": "https://www.amazon.com.br/Comece-pelo-porqu%C3%AA-grandes-inspiram/dp/854310663X",
+    "imagem": "https://sextante.com.br/cdn/shop/files/Capa_1_9788543106632.jpg?v=1739211504"
+},
+{
+    "nome": "Fora de Série (Outliers)",
+    "descricao_curta": "Explore os fatores ocultos do sucesso, incluindo cultura, oportunidade e a regra das 10.000 horas de prática.",
+    "descricao_completa": "Malcolm Gladwell investiga os fatores que contribuem para o sucesso extraordinário. Ele argumenta que o sucesso não depende apenas do talento, mas também de uma combinação de cultura, oportunidade e trabalho árduo (a regra das 10.000 horas).",
+    "ano": 2008,
+    "link": "https://www.amazon.com.br/Fora-s%C3%A9rie-Outliers-Malcolm-Gladwell/dp/8575424483",
+    "imagem": "https://m.media-amazon.com/images/I/71WqAWThn9L._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "O Poder do Agora",
+    "descricao_curta": "Um guia espiritual para encontrar a paz interior e a felicidade, aprendendo a viver intensamente no momento presente.",
+    "descricao_completa": "Eckhart Tolle ensina que o caminho para a felicidade e a iluminação é viver intensamente no presente. O livro é um guia para transcender o pensamento egoico e encontrar a paz interior, mostrando como a dor emocional é criada pela nossa identificação com a mente.",
+    "ano": 1997,
+    "link": "https://www.amazon.com.br/Poder-Agora-guia-ilumina%C3%A7%C3%A3o-espiritual/dp/8575420275",
+    "imagem": "https://m.media-amazon.com/images/I/71sh8JtiZbL.jpg"
+},
+{
+    "nome": "As Armas da Persuasão",
+    "descricao_curta": "Conheça os seis princípios universais da persuasão e aprenda a influenciar pessoas de forma ética.",
+    "descricao_completa": "O psicólogo Robert Cialdini explica os seis princípios universais da persuasão (reciprocidade, compromisso e coerência, prova social, afeição, autoridade e escassez) e como eles podem ser usados para influenciar pessoas de forma ética.",
+    "ano": 1984,
+    "link": "https://www.amazon.com.br/As-armas-persuas%C3%A3o-Robert-Cialdini/dp/8575428098",
+    "imagem": "https://m.media-amazon.com/images/I/71mWm5Oq7cL.jpg"
+},
+{
+    "nome": "A Coragem de Ser Imperfeito",
+    "descricao_curta": "Descubra como a vulnerabilidade é, na verdade, uma medida de coragem, e aprenda a abraçar a imperfeição para viver uma vida mais autêntica.",
+    "descricao_completa": "Brené Brown argumenta que a vulnerabilidade não é uma fraqueza, mas sim a nossa medida mais precisa de coragem. O livro ensina a abraçar a imperfeição e a viver uma vida mais plena e autêntica, com base em anos de pesquisa sobre vergonha e empatia.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/coragem-ser-imperfeito-Bren%C3%A9-Brown/dp/8543104335",
+    "imagem": "https://m.media-amazon.com/images/I/81qSJeroOCL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Comunicação Não-Violenta",
+    "descricao_curta": "Aprenda um método de comunicação focado na empatia para melhorar relacionamentos e resolver conflitos de forma pacífica.",
+    "descricao_completa": "Marshall B. Rosenberg apresenta um método de comunicação que melhora relacionamentos e resolve conflitos. A abordagem foca em expressar sentimentos e necessidades de forma clara e empática, sem culpar ou criticar os outros.",
+    "ano": 1999,
+    "link": "https://www.amazon.com.br/Comunica%C3%A7%C3%A3o-n%C3%A3o-violenta-aprimorar-relacionamentos-profissionais/dp/8571838267",
+    "imagem": "https://m.media-amazon.com/images/I/71vfutuuhnL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "O Obstáculo é o Caminho",
+    "descricao_curta": "Baseado na filosofia estoica, aprenda a transformar obstáculos em oportunidades usando percepção, ação e vontade.",
+    "descricao_completa": "Ryan Holiday baseia-se na filosofia estoica para mostrar como podemos transformar obstáculos em oportunidades. O livro ensina a usar a percepção, a ação e a vontade para superar desafios e alcançar o sucesso.",
+    "ano": 2014,
+    "link": "https://www.amazon.com.br/obst%C3%A1culo-%C3%A9-caminho-Ryan-Holiday-ebook/dp/B0B5FM949N",
+    "imagem": "https://m.media-amazon.com/images/I/716orRluDrL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo",
+    "descricao_curta": "Aprenda com o cocriador do Scrum como aplicar esta metodologia ágil para aumentar drasticamente a produtividade em qualquer projeto.",
+    "descricao_completa": "Jeff Sutherland, cocriador do Scrum, explica como essa metodologia ágil pode ser aplicada para aumentar a produtividade e a eficiência em qualquer projeto, seja no trabalho ou na vida pessoal.",
+    "ano": 2014,
+    "link": "https://www.amazon.com.br/Scrum-Fazer-Dobro-Trabalho-Metade/dp/8544104517",
+    "imagem": "https://m.media-amazon.com/images/I/91y1jCIfhSL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Picos e Vales",
+    "descricao_curta": "Uma parábola simples que ensina a lidar com os altos e baixos da vida, ajudando a sair dos 'vales' e a aproveitar os 'picos'.",
+    "descricao_completa": "Spencer Johnson, autor de 'Quem Mexeu no Meu Queijo?', usa uma parábola simples para ensinar como lidar com os altos e baixos da vida. O livro oferece ferramentas para sair dos vales mais rápido e permanecer nos picos por mais tempo.",
+    "ano": 2009,
+    "link": "https://www.amazon.com.br/Picos-Vales-Em-Portugues-Brasil/dp/851994387X",
+    "imagem": "https://m.media-amazon.com/images/I/71uf6qZRJ-L.jpg"
+},
+{
+    "nome": "O Princípio 80/20",
+    "descricao_curta": "Descubra como 80% dos resultados vêm de 20% dos esforços e aprenda a focar no que realmente importa para alcançar mais com menos.",
+    "descricao_completa": "Richard Koch explora o Princípio de Pareto, que afirma que 80% dos resultados vêm de 20% dos esforços. O livro ensina como aplicar esse conceito para focar no que realmente importa e alcançar mais com menos.",
+    "ano": 1997,
+    "link": "https://www.amazon.com.br/princ%C3%ADpio-80-20-segredos-conseguir/dp/858235259X",
+    "imagem": "https://m.media-amazon.com/images/I/81grqqAYVwL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "A Única Coisa",
+    "descricao_curta": "Aprenda a focar na 'única coisa' mais importante para alcançar resultados extraordinários, reduzir o estresse e aumentar a produtividade.",
+    "descricao_completa": "Gary W. Keller e Jay Papasan argumentam que o segredo para o sucesso extraordinário é focar na 'única coisa' mais importante em qualquer momento. O livro oferece uma estrutura para reduzir o estresse e aumentar a produtividade.",
+    "ano": 2013,
+    "link": "https://www.amazon.com.br/%C3%9Anica-Coisa-surpreendentemente-resultados-extraordin%C3%A1rios/dp/6555641231",
+    "imagem": "https://m.media-amazon.com/images/I/71pr6kivAdL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "O Lado Bom do Lado Ruim",
+    "descricao_curta": "Descubra como emoções negativas como ansiedade, tristeza e raiva podem ser úteis para o nosso bem-estar e crescimento pessoal.",
+    "descricao_completa": "Daniel Martins de Barros mostra como emoções negativas como ansiedade, tristeza e raiva podem ser úteis e até necessárias para o nosso bem-estar e crescimento pessoal, se soubermos como interpretá-las.",
+    "ano": 2014,
+    "link": "https://www.amazon.com.br/lado-bom-ruim/dp/8543109310",
+    "imagem": "https://m.media-amazon.com/images/I/61-yZIqK79L.jpg"
+},
+{
+    "nome": "Storytelling com Dados",
+    "descricao_curta": "Um guia prático para transformar dados brutos em histórias envolventes através de técnicas eficazes de visualização de dados.",
+    "descricao_completa": "Cole Nussbaumer Knaflic ensina como transformar dados em histórias envolventes e informativas. O livro é um guia prático sobre visualização de dados e como comunicar sua mensagem de forma eficaz.",
+    "ano": 2015,
+    "link": "https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681",
+    "imagem": "https://m.media-amazon.com/images/I/71coWiVe8bL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "O Projeto Fênix",
+    "descricao_curta": "Uma novela de ficção que ilustra os princípios de DevOps e como eles podem transformar a TI e os negócios, melhorando o fluxo de trabalho.",
+    "descricao_completa": "Gene Kim, Kevin Behr e George Spafford usam uma novela de ficção para ilustrar os princípios de DevOps e como eles podem transformar a TI e os negócios, melhorando o fluxo de trabalho e a colaboração entre equipes.",
+    "ano": 2013,
+    "link": "https://www.amazon.com.br/Projeto-F%C3%AAnix-Romance-DevOps-Neg%C3%B3cio/dp/8550801895",
+    "imagem": "https://i.ytimg.com/vi/onOSqebAfjc/maxresdefault.jpg"
+},
+{
+    "nome": "A Startup de $100",
+    "descricao_curta": "Descubra como transformar suas paixões em um negócio lucrativo com um investimento mínimo, baseado em estudos de caso reais.",
+    "descricao_completa": "Chris Guillebeau mostra como é possível criar um negócio lucrativo com um investimento mínimo, transformando paixões em renda. O livro é baseado em estudos de caso de empreendedores que começaram com pouco e alcançaram a liberdade financeira.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/Startup-Negocio-Sonhos-Reinvente-Ganhar/dp/8502197525",
+    "imagem": "https://m.media-amazon.com/images/I/81QXrgvv+sL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Roube Como um Artista",
+    "descricao_curta": "Dez dicas para liberar sua criatividade, mostrando que nada é original e que a inspiração vem de coletar e remixar ideias.",
+    "descricao_completa": "Austin Kleon defende que a criatividade não surge do nada, mas da inspiração em outros trabalhos. O livro oferece 10 dicas para liberar o potencial criativo, incentivando a coletar ideias, remixá-las e criar algo novo.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/Roube-Artista-Dicas-Sobre-Criatividade/dp/8532528422",
+    "imagem": "https://m.media-amazon.com/images/I/71ey17QwvmL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Inteligência Emocional",
+    "descricao_curta": "Descubra por que a inteligência emocional (QE) é mais importante que o QI para o sucesso e aprenda a desenvolver suas cinco habilidades.",
+    "descricao_completa": "Daniel Goleman argumenta que a inteligência emocional (QE) é mais importante para o sucesso na vida do que o QI. O livro explora as cinco habilidades da inteligência emocional e como desenvolvê-las.",
+    "ano": 1995,
+    "link": "https://www.amazon.com.br/Intelig%C3%AAncia-emocional-Daniel-Goleman/dp/8573020806",
+    "imagem": "https://m.media-amazon.com/images/I/71f9R8hY23L.jpg"
+},
+{
+    "nome": "O Andar do Bêbado",
+    "descricao_curta": "Explore o papel do acaso em nossas vidas e como nossa mente luta para entender eventos aleatórios, muitas vezes vendo padrões onde não existem.",
+    "descricao_completa": "O físico Leonard Mlodinow explora o papel do acaso e da aleatoriedade em nossas vidas. O livro mostra como nossa mente luta para entender eventos aleatórios, muitas vezes atribuindo causas onde não existem.",
+    "ano": 2008,
+    "link": "https://www.amazon.com.br/andar-b%C3%AAbado-acaso-determina-nossas-ebook/dp/B008FPZPRA",
+    "imagem": "https://m.media-amazon.com/images/I/81HhFIyG1iL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Foco",
+    "descricao_curta": "Explore a ciência da atenção e aprenda a aprimorar os três tipos de foco (interno, no outro e externo) para alcançar o sucesso.",
+    "descricao_completa": "Daniel Goleman explora a ciência da atenção e argumenta que a capacidade de focar é um ativo mental essencial para o sucesso. O livro detalha os três tipos de foco (interno, no outro e externo) e como aprimorá-los.",
+    "ano": 2013,
+    "link": "https://www.amazon.com.br/Foco-Daniel-Goleman/dp/8539005352",
+    "imagem": "https://m.media-amazon.com/images/I/71t7RY7qjiL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "A Meta",
+    "descricao_curta": "Através de um romance de negócios, aprenda a Teoria das Restrições para identificar e gerenciar gargalos, melhorando a produtividade.",
+    "descricao_completa": "Eliyahu M. Goldratt apresenta a Teoria das Restrições através de um romance de negócios. O livro ensina a identificar e gerenciar gargalos para melhorar a produtividade e a lucratividade de qualquer organização.",
+    "ano": 1984,
+    "link": "https://www.amazon.com.br/Meta-processo-melhoria-cont%C3%ADnua-comemorativa/dp/6550474612/ref=pd_lpo_d_sccl_1/131-2810923-4343442?pd_rd_w=chjnR&content-id=amzn1.sym.a2197dac-0fbe-4cc8-beca-b52f96ea33d5&pf_rd_p=a2197dac-0fbe-4cc8-beca-b52f96ea33d5&pf_rd_r=EV9SF6ASZ569MJCE2H7H&pd_rd_wg=Ny99j&pd_rd_r=2b10b158-104b-4c0c-ba1c-da6268bc8430&pd_rd_i=6550474612&psc=1",
+    "imagem": "https://m.media-amazon.com/images/I/81o1Xq4ETjL.jpg"
+},
+{
+    "nome": "O cérebro que se transforma",
+    "descricao_curta": "Explore a neuroplasticidade e veja histórias inspiradoras de como o cérebro pode se reorganizar, se curar e superar desafios.",
+    "descricao_completa": "Norman Doidge explora a neuroplasticidade, a capacidade do cérebro de se reorganizar e se curar. O livro apresenta histórias de cientistas, médicos e pacientes que usaram essa descoberta para superar desafios neurológicos.",
+    "ano": 2007,
+    "link": "https://www.amazon.com.br/c%C3%A9rebro-que-transforma-neuroci%C3%AAncia-pessoas/dp/8501083852",
+    "imagem": "https://m.media-amazon.com/images/I/916ATSEuFwL.jpg"
+},
+{
+    "nome": "Dar e Receber",
+    "descricao_curta": "Descubra os três estilos de reciprocidade (doadores, tomadores, compensadores) e por que os doadores alcançam mais sucesso a longo prazo.",
+    "descricao_completa": "Adam Grant classifica as pessoas em três estilos de reciprocidade: doadores, tomadores e compensadores. Ele argumenta que, ao contrário da crença popular, os doadores são os que alcançam maior sucesso a longo prazo.",
+    "ano": 2013,
+    "link": "https://www.amazon.com.br/Dar-receber-Adam-Grant/dp/8543100739",
+    "imagem": "https://m.media-amazon.com/images/I/71wzD9wybCL.jpg"
+},
+{
+    "nome": "O Jeito Harvard de Ser Feliz",
+    "descricao_curta": "Descubra por que a felicidade impulsiona o sucesso (e não o contrário) e aprenda sete princípios práticos para aumentar seu bem-estar.",
+    "descricao_completa": "Shawn Achor, com base em pesquisas da psicologia positiva, argumenta que a felicidade impulsiona o sucesso, e não o contrário. O livro apresenta sete princípios práticos para aumentar a felicidade e o desempenho.",
+    "ano": 2010,
+    "link": "https://www.amazon.com.br/Jeito-Harvard-Ser-Feliz/dp/8502180266",
+    "imagem": "https://m.media-amazon.com/images/I/71U9IjrS3UL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "O Ponto da Virada",
+    "descricao_curta": "Entenda como pequenas ações podem criar grandes mudanças ('epidemias sociais') e o papel de pessoas-chave nesse processo.",
+    "descricao_completa": "Malcolm Gladwell explora como pequenas ações em momentos certos podem criar grandes mudanças, ou 'epidemias sociais'. Ele descreve os três tipos de pessoas (Comunicadores, Experts e Vendedores) que são cruciais para iniciar tendências.",
+    "ano": 2000,
+    "link": "https://www.amazon.com.br/ponto-virada-Malcolm-Gladwell/dp/8575424831",
+    "imagem": "https://m.media-amazon.com/images/I/71ywpPBHODL._UF1000,1000_QL80_.jpg"
+},
+{
+    "nome": "Hábitos Atômicos",
+    "descricao_curta": "Um guia prático para criar bons hábitos e quebrar os maus através de pequenas e consistentes mudanças diárias.",
+    "descricao_completa": "James Clear apresenta um método prático para criar bons hábitos e quebrar os maus. O livro ensina como pequenas mudanças diárias (hábitos atômicos) podem levar a resultados notáveis, focando em sistemas em vez de metas para alcançar o sucesso a longo prazo.",
+    "ano": 2018,
+    "link": "https://www.amazon.com.br/H%C3%A1bitos-At%C3%B4micos-M%C3%A9todo-Comprovado-Livrar/dp/8550807567",
+    "imagem": "https://m.media-amazon.com/images/I/81eT2pjx4jL.jpg"
+},
+{
+    "nome": "Geração de Valor",
+    "descricao_curta": "Inspire-se com a jornada empreendedora de Flávio Augusto e aprenda a construir um mindset vencedor para os negócios e a vida.",
+    "descricao_completa": "Flávio Augusto da Silva, fundador da Wise Up, compartilha sua jornada empreendedora e lições sobre como pensar fora da caixa, questionar o status quo e construir um mindset vencedor para alcançar o sucesso nos negócios e na vida.",
+    "ano": 2014,
+    "link": "https://www.amazon.com.br/Gera%C3%A7%C3%A3o-Valor-Fl%C3%A1vio-Augusto-Silva/dp/6580435356",
+    "imagem": "https://m.media-amazon.com/images/I/81pVUW9hiHL._AC_UY218_.jpg"
+}
+]
