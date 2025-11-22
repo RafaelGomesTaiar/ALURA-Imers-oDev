@@ -1,3 +1,3 @@
-#DESCRIÇÃO
+DESCRIÇÃO
 
 Este projeto consiste em uma base de conhecimento em formato JSON que reúne uma lista curada de livros influentes sobre finanças, desenvolvimento pessoal, negócios, psicologia e produtividade. O objetivo é oferecer um conjunto de dados estruturado e de fácil acesso, ideal para ser utilizado no desenvolvimento de aplicações como sites de recomendação, bots de conteúdo, ou simplesmente para análise e consulta. Cada livro na coleção possui informações detalhadas, incluindo nome, descrições (curta e completa), ano de publicação, link para compra e a URL da imagem da capa, tornando-o um recurso completo e pronto para uso em diversos projetos.
